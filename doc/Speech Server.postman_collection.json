@@ -1,0 +1,257 @@
+{
+	"info": {
+		"_postman_id": "93b23f40-1131-47f1-aa60-263972b70ebd",
+		"name": "Speech Server",
+		"description": "Pacote destinado a testes no serviço Speech Server 1.30.0",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "version",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"type": "text",
+						"name": "Content-Type",
+						"value": "application/json",
+						"disabled": false
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://localhost:8082/version",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8082",
+					"path": [
+						"version"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "requestTextToSpeech",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"Voice\" : \"rosana-highquality.voice\"\n\t, \"Message\" :\"Ola Felipe Brasil, Bom dia! Este contato é para confirmar sua consulta do dia 25 de abril, Profissional Luiz Gomes, horario 10:30, unidade barueri.\"\n}"
+				},
+				"url": {
+					"raw": "http://localhost:8082/message/requestTextToSpeech",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8082",
+					"path": [
+						"message",
+						"requestTextToSpeech"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "recordTextToSpeech",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"Voice\" : \"carlos-highquality.voice\"\n\t, \"Message\" : \"Ola Felipe Brasil, Bom dia! Este contato é para confirmar sua consulta do dia 25 de abril, Profissional Luiz Gomes, horario 10:30, unidade barueri.\"\n}"
+				},
+				"url": {
+					"raw": "localhost:8082/message/recordTextToSpeech",
+					"host": [
+						"localhost"
+					],
+					"port": "8082",
+					"path": [
+						"message",
+						"recordTextToSpeech"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "sendAudioByRecognize",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/x-www-form-urlencoded",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"description": "Teste",
+							"type": "file",
+							"src": ""
+						},
+						{
+							"key": "speakers",
+							"value": "2",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "localhost:8082/message/sendAudioByRecognize?Filename=Teste",
+					"host": [
+						"localhost"
+					],
+					"port": "8082",
+					"path": [
+						"message",
+						"sendAudioByRecognize"
+					],
+					"query": [
+						{
+							"key": "Filename",
+							"value": "Teste"
+						},
+						{
+							"key": "",
+							"value": "",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "sendAudioConvertByRecognize",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": ""
+						},
+						{
+							"key": "Nlp",
+							"value": "default",
+							"type": "text"
+						},
+						{
+							"key": "speakers",
+							"value": "2",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "localhost:8082/message/sendAudioConvertByRecognize",
+					"host": [
+						"localhost"
+					],
+					"port": "8082",
+					"path": [
+						"message",
+						"sendAudioConvertByRecognize"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "downloadAudioConvertByRecognize",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"Url\" : \"\"\n}"
+				},
+				"url": {
+					"raw": "localhost:8082/message/downloadAudioConvertByRecognize",
+					"host": [
+						"localhost"
+					],
+					"port": "8082",
+					"path": [
+						"message",
+						"downloadAudioConvertByRecognize"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "analizeSentiment",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"Message\" : \"Não gosto de você!\"\n}"
+				},
+				"url": {
+					"raw": "localhost:8082/message/analizeSentiment",
+					"host": [
+						"localhost"
+					],
+					"port": "8082",
+					"path": [
+						"message",
+						"analizeSentiment"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

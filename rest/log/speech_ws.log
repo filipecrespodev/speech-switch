@@ -1,0 +1,292 @@
+2019-04-25 21:10:50,402 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-25 21:10:52,195 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-25 21:10:52,206 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 206-848-052
+2019-04-25 21:10:53,060 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-25 21:11:24,466 - module: _internal - line: 88 - func: _log - INFO - 127.0.0.1 - - [25/Apr/2019 21:11:24] "POST /message/sendAudioConvertByRecognize HTTP/1.1" 500 -
+2019-04-25 21:11:42,617 - module: _internal - line: 88 - func: _log - INFO -  * Detected change in 'D:\\Produtos\\SpeechServer\\rest\\ws_rest.py', reloading
+2019-04-25 21:11:42,756 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-25 21:11:45,915 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-25 21:11:45,936 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 206-848-052
+2019-04-25 21:11:46,794 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-25 21:11:49,384 - module: _internal - line: 88 - func: _log - INFO -  * Detected change in 'D:\\Produtos\\SpeechServer\\rest\\ws_rest.py', reloading
+2019-04-25 21:11:49,533 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-25 21:11:52,531 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-25 21:11:52,548 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 206-848-052
+2019-04-25 21:11:53,400 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-25 21:12:08,718 - module: ws_rest - line: 178 - func: sendAudioConvertByRecognize - INFO - speakers:[{"index": 0 "message": ""},{"index": 1 "message": "Sua chamada está sendo encaminhada para caixa postal e sujeita à cobrança após o sinal na Felipe Brasil. Bom dia esse contato e confirmar sua consulta do dia 25 de Abril profissional Luís Gomes horário 10:30 unidade."},{"index": 2 "message": ""},{"index": 3 "message": ""},{"index": 4 "message": ""}]
+2019-04-25 21:12:08,719 - module: _internal - line: 88 - func: _log - INFO - 127.0.0.1 - - [25/Apr/2019 21:12:08] "POST /message/sendAudioConvertByRecognize HTTP/1.1" 200 -
+2019-04-25 21:13:13,483 - module: _internal - line: 88 - func: _log - INFO -  * Detected change in 'D:\\Produtos\\SpeechServer\\api\\google_api.py', reloading
+2019-04-25 21:13:13,565 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-25 21:13:15,826 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-25 21:13:15,839 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 206-848-052
+2019-04-25 21:13:16,684 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-25 21:14:08,690 - module: ws_rest - line: 178 - func: sendAudioConvertByRecognize - INFO - speakers:[{"index": 0 "message": ""},{"index": 1 "message": "Sua chamada está sendo encaminhada para caixa postal e sujeita à cobrança após o sinal na Felipe Brasil. Bom dia esse contato e confirmar sua consulta do dia 25 de Abril profissional Luís Gomes horário 10:30 unidade."},{"index": 2 "message": ""},{"index": 3 "message": ""},{"index": 4 "message": ""}]
+2019-04-25 21:14:08,691 - module: _internal - line: 88 - func: _log - INFO - 127.0.0.1 - - [25/Apr/2019 21:14:08] "POST /message/sendAudioConvertByRecognize HTTP/1.1" 200 -
+2019-04-25 21:14:54,952 - module: _internal - line: 88 - func: _log - INFO -  * Detected change in 'D:\\Produtos\\SpeechServer\\api\\google_api.py', reloading
+2019-04-25 21:14:55,023 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-25 21:14:56,678 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-25 21:14:56,688 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 206-848-052
+2019-04-25 21:14:57,537 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-25 21:15:10,883 - module: ws_rest - line: 178 - func: sendAudioConvertByRecognize - INFO - speakers:[{"index": 0 "message": ""},{"index": 1 "message": "Sua chamada está sendo encaminhada para caixa postal e sujeita à cobrança após o sinal na Felipe Brasil. Bom dia esse contato e confirmar sua consulta do dia 25 de Abril profissional Luís Gomes horário 10:30 unidade."},{"index": 2 "message": ""},{"index": 3 "message": ""},{"index": 4 "message": ""}]
+2019-04-25 21:15:10,883 - module: _internal - line: 88 - func: _log - INFO - 127.0.0.1 - - [25/Apr/2019 21:15:10] "POST /message/sendAudioConvertByRecognize HTTP/1.1" 200 -
+2019-04-25 21:15:42,031 - module: ws_rest - line: 178 - func: sendAudioConvertByRecognize - INFO - speakers:[{"index": 0 "message": ""},{"index": 1 "message": "Sua chamada está sendo encaminhada para caixa postal e sujeita à cobrança após o sinal na Felipe Brasil. Bom dia esse contato e confirmar sua consulta do dia 25 de Abril profissional Luís Gomes horário 10:30 unidade."},{"index": 2 "message": ""},{"index": 3 "message": ""},{"index": 4 "message": ""}]
+2019-04-25 21:15:42,034 - module: _internal - line: 88 - func: _log - INFO - 127.0.0.1 - - [25/Apr/2019 21:15:42] "POST /message/sendAudioConvertByRecognize HTTP/1.1" 200 -
+2019-04-25 21:16:00,918 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-25 21:16:02,532 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-25 21:16:02,541 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 206-848-052
+2019-04-25 21:16:03,384 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-25 21:16:30,320 - module: _internal - line: 88 - func: _log - INFO -  * Detected change in 'D:\\Produtos\\SpeechServer\\rest\\ws_rest.py', reloading
+2019-04-25 21:16:30,422 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-25 21:16:32,220 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-25 21:16:32,235 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 206-848-052
+2019-04-25 21:16:33,085 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-25 21:16:46,535 - module: ws_rest - line: 179 - func: sendAudioConvertByRecognize - INFO - speakers:[{"index": 0 "message": ""},{"index": 1 "message": "Sua chamada está sendo encaminhada para caixa postal e sujeita à cobrança após o sinal na Felipe Brasil. Bom dia esse contato e confirmar sua consulta do dia 25 de Abril profissional Luís Gomes horário 10:30 unidade."},{"index": 2 "message": ""},{"index": 3 "message": ""},{"index": 4 "message": ""}]
+2019-04-25 21:16:46,538 - module: _internal - line: 88 - func: _log - INFO - 127.0.0.1 - - [25/Apr/2019 21:16:46] "POST /message/sendAudioConvertByRecognize HTTP/1.1" 200 -
+2019-04-25 21:17:02,848 - module: _internal - line: 88 - func: _log - INFO -  * Detected change in 'D:\\Produtos\\SpeechServer\\rest\\ws_rest.py', reloading
+2019-04-25 21:17:02,914 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-25 21:17:04,651 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-25 21:17:04,661 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 206-848-052
+2019-04-25 21:17:05,507 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-25 21:17:25,710 - module: _internal - line: 88 - func: _log - INFO -  * Detected change in 'D:\\Produtos\\SpeechServer\\rest\\ws_rest.py', reloading
+2019-04-25 21:17:25,775 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-25 21:17:27,444 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-25 21:17:27,455 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 206-848-052
+2019-04-25 21:17:29,420 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-25 21:17:33,472 - module: ws_rest - line: 179 - func: sendAudioConvertByRecognize - INFO - 
+2019-04-25 21:17:33,476 - module: _internal - line: 88 - func: _log - INFO - 127.0.0.1 - - [25/Apr/2019 21:17:33] "POST /message/sendAudioConvertByRecognize HTTP/1.1" 200 -
+2019-04-25 21:19:05,750 - module: _internal - line: 88 - func: _log - INFO -  * Detected change in 'D:\\Produtos\\SpeechServer\\rest\\ws_rest.py', reloading
+2019-04-25 21:19:05,832 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-25 21:19:07,503 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-25 21:19:07,513 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 206-848-052
+2019-04-25 21:19:08,358 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-25 21:19:46,476 - module: _internal - line: 88 - func: _log - INFO -  * Detected change in 'D:\\Produtos\\SpeechServer\\rest\\ws_rest.py', reloading
+2019-04-25 21:19:46,546 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-25 21:19:48,184 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-25 21:19:48,196 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 206-848-052
+2019-04-25 21:19:49,049 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-25 21:20:03,517 - module: ws_rest - line: 179 - func: sendAudioConvertByRecognize - INFO - speakers:[{"index": 0 "message": ""},{"index": 1 "message": "Sua chamada está sendo encaminhada para caixa postal e sujeita à cobrança após o sinal na Felipe Brasil Bom dia esse contato e confirmar sua consulta do dia 25 de Abril profissional Luís Gomes horário 10:30 unidade"},{"index": 2 "message": ""},{"index": 3 "message": ""},{"index": 4 "message": ""}]
+2019-04-25 21:20:03,517 - module: _internal - line: 88 - func: _log - INFO - 127.0.0.1 - - [25/Apr/2019 21:20:03] "POST /message/sendAudioConvertByRecognize HTTP/1.1" 200 -
+2019-04-25 21:20:30,991 - module: _internal - line: 88 - func: _log - INFO -  * Detected change in 'D:\\Produtos\\SpeechServer\\rest\\ws_rest.py', reloading
+2019-04-25 21:20:31,088 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-25 21:20:32,789 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-25 21:20:32,799 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 206-848-052
+2019-04-25 21:20:35,665 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-25 21:20:46,675 - module: ws_rest - line: 180 - func: sendAudioConvertByRecognize - INFO - speakers:[{"index": 0 "message": ""},{"index": 1 "message": "Sua chamada está sendo encaminhada para caixa postal e sujeita à cobrança após o sinal na Felipe Brasil. Bom dia esse contato e confirmar sua consulta do dia 25 de Abril profissional Luís Gomes horário 10:30 unidade."},{"index": 2 "message": ""},{"index": 3 "message": ""},{"index": 4 "message": ""}]
+2019-04-25 21:20:46,675 - module: _internal - line: 88 - func: _log - INFO - 127.0.0.1 - - [25/Apr/2019 21:20:46] "POST /message/sendAudioConvertByRecognize HTTP/1.1" 200 -
+2019-04-25 21:21:11,909 - module: _internal - line: 88 - func: _log - INFO -  * Detected change in 'D:\\Produtos\\SpeechServer\\api\\google_api.py', reloading
+2019-04-25 21:21:11,984 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-25 21:21:13,684 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-25 21:21:13,698 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 206-848-052
+2019-04-25 21:21:14,567 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-25 21:21:44,441 - module: ws_rest - line: 180 - func: sendAudioConvertByRecognize - INFO - speakers:[{"index": 0 "message": ""},{"index": 1 "message": "Sua chamada está sendo encaminhada para caixa postal e sujeita à cobrança após o sinal na Felipe Brasil. Bom dia esse contato e confirmar sua consulta do dia 25 de Abril profissional Luís Gomes horário 10:30 unidade."},{"index": 2 "message": ""},{"index": 3 "message": ""},{"index": 4 "message": ""}]
+2019-04-25 21:21:44,443 - module: _internal - line: 88 - func: _log - INFO - 127.0.0.1 - - [25/Apr/2019 21:21:44] "POST /message/sendAudioConvertByRecognize HTTP/1.1" 200 -
+2019-04-25 21:21:59,491 - module: ws_rest - line: 180 - func: sendAudioConvertByRecognize - INFO - speakers:[{"index": 0 "message": ""},{"index": 1 "message": "Sua chamada está sendo encaminhada para caixa postal e sujeita à cobrança após o sinal na Felipe Brasil Bom dia esse contato e confirmar sua consulta do dia 25 de Abril profissional Luís Gomes horário 10:30 unidade"},{"index": 2 "message": ""},{"index": 3 "message": ""},{"index": 4 "message": ""}]
+2019-04-25 21:21:59,493 - module: _internal - line: 88 - func: _log - INFO - 127.0.0.1 - - [25/Apr/2019 21:21:59] "POST /message/sendAudioConvertByRecognize HTTP/1.1" 200 -
+2019-04-27 09:17:51,606 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-27 09:17:53,505 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-27 09:17:53,518 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 206-848-052
+2019-04-27 09:17:54,366 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-27 09:18:41,165 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-27 09:18:43,907 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-27 09:18:43,923 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 206-848-052
+2019-04-27 09:18:44,773 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-27 09:20:00,546 - module: ws_rest - line: 180 - func: sendAudioConvertByRecognize - INFO - Speaker 2: Sua chamada está sendo encaminhada para caixa postal e sujeita à cobrança após o sinal na Felipe Brasil Bom dia esse contato e confirmar sua consulta do dia 25 de Abril profissional Luís Gomes horário 10:30 unidade
+2019-04-27 09:20:00,547 - module: _internal - line: 88 - func: _log - INFO - 127.0.0.1 - - [27/Apr/2019 09:20:00] "POST /message/sendAudioConvertByRecognize HTTP/1.1" 200 -
+2019-04-27 09:20:29,671 - module: ws_rest - line: 180 - func: sendAudioConvertByRecognize - INFO - Speaker 2: Sua chamada está sendo encaminhada para caixa postal e sujeita à cobrança após o sinal na Felipe Brasil. Bom dia esse contato e confirmar sua consulta do dia 25 de Abril profissional Luís Gomes horário 10:30 unidade.
+2019-04-27 09:20:29,673 - module: _internal - line: 88 - func: _log - INFO - 127.0.0.1 - - [27/Apr/2019 09:20:29] "POST /message/sendAudioConvertByRecognize HTTP/1.1" 200 -
+2019-04-27 09:22:03,647 - module: _internal - line: 88 - func: _log - INFO -  * Detected change in 'D:\\Produtos\\SpeechServer\\api\\google_api.py', reloading
+2019-04-27 09:22:03,748 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-27 09:22:05,424 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-27 09:22:05,436 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 206-848-052
+2019-04-27 09:22:06,282 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-27 09:22:17,819 - module: _internal - line: 88 - func: _log - INFO -  * Detected change in 'D:\\Produtos\\SpeechServer\\api\\google_api.py', reloading
+2019-04-27 09:22:17,887 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-27 09:22:19,922 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-27 09:22:19,934 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 206-848-052
+2019-04-27 09:22:20,780 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-27 09:23:48,316 - module: ws_rest - line: 180 - func: sendAudioConvertByRecognize - INFO - 1: remarcar Claro você me fala seu nome completo, por favor.
+2019-04-27 09:23:48,317 - module: _internal - line: 88 - func: _log - INFO - 127.0.0.1 - - [27/Apr/2019 09:23:48] "POST /message/sendAudioConvertByRecognize HTTP/1.1" 200 -
+2019-04-27 09:24:07,030 - module: _internal - line: 88 - func: _log - INFO - 127.0.0.1 - - [27/Apr/2019 09:24:07] "POST /message/sendAudioByRecognize?Filename=Teste HTTP/1.1" 200 -
+2019-04-27 09:24:25,700 - module: ws_rest - line: 180 - func: sendAudioConvertByRecognize - INFO - 1: remarcar Claro você me fala seu nome completo, por favor.
+2019-04-27 09:24:25,701 - module: _internal - line: 88 - func: _log - INFO - 127.0.0.1 - - [27/Apr/2019 09:24:25] "POST /message/sendAudioConvertByRecognize HTTP/1.1" 200 -
+2019-04-27 09:25:00,393 - module: _internal - line: 88 - func: _log - INFO -  * Detected change in 'D:\\Produtos\\SpeechServer\\api\\google_api.py', reloading
+2019-04-27 09:25:00,480 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-27 09:25:02,191 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-27 09:25:02,202 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 206-848-052
+2019-04-27 09:25:03,046 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-27 09:25:21,082 - module: ws_rest - line: 180 - func: sendAudioConvertByRecognize - INFO - 
+2019-04-27 09:25:21,083 - module: _internal - line: 88 - func: _log - INFO - 127.0.0.1 - - [27/Apr/2019 09:25:21] "POST /message/sendAudioConvertByRecognize HTTP/1.1" 200 -
+2019-04-27 09:25:35,092 - module: _internal - line: 88 - func: _log - INFO -  * Detected change in 'D:\\Produtos\\SpeechServer\\api\\google_api.py', reloading
+2019-04-27 09:25:35,162 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-27 09:25:36,897 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-27 09:25:36,907 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 206-848-052
+2019-04-27 09:25:37,751 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-27 09:26:10,945 - module: _internal - line: 88 - func: _log - INFO -  * Detected change in 'D:\\Produtos\\SpeechServer\\api\\google_api.py', reloading
+2019-04-27 09:26:11,014 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-27 09:26:12,719 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-27 09:26:12,729 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 206-848-052
+2019-04-27 09:26:13,572 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-27 09:26:22,527 - module: ws_rest - line: 180 - func: sendAudioConvertByRecognize - INFO - 1: Personal System Evelin, bom dia.2: Oi, bom dia, Evelyn, eu tenho uma consulta marcada hoje, mas eu preciso1: remarcar Claro você me fala seu nome completo, por favor.
+2019-04-27 09:26:22,528 - module: _internal - line: 88 - func: _log - INFO - 127.0.0.1 - - [27/Apr/2019 09:26:22] "POST /message/sendAudioConvertByRecognize HTTP/1.1" 200 -
+2019-04-27 09:28:34,211 - module: _internal - line: 88 - func: _log - INFO -  * Detected change in 'D:\\Produtos\\SpeechServer\\api\\google_api.py', reloading
+2019-04-27 09:28:34,288 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-27 09:28:36,197 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-27 09:28:36,210 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 206-848-052
+2019-04-27 09:28:37,056 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-27 09:28:47,192 - module: ws_rest - line: 180 - func: sendAudioConvertByRecognize - INFO - 1: Personal
+ System
+ Evelin,
+ bom
+ dia.
+2: Oi,
+ bom
+ dia,
+ Evelyn,
+ eu
+ tenho
+ uma
+ consulta
+ marcada
+ hoje,
+ mas
+ eu
+ preciso
+1: remarcar
+ Claro
+ você
+ me
+ fala
+ seu
+ nome
+ completo,
+ por
+ favor.
+
+2019-04-27 09:28:47,193 - module: _internal - line: 88 - func: _log - INFO - 127.0.0.1 - - [27/Apr/2019 09:28:47] "POST /message/sendAudioConvertByRecognize HTTP/1.1" 200 -
+2019-04-27 09:28:56,867 - module: _internal - line: 88 - func: _log - INFO -  * Detected change in 'D:\\Produtos\\SpeechServer\\api\\google_api.py', reloading
+2019-04-27 09:28:56,968 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-27 09:28:58,726 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-27 09:28:58,739 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 206-848-052
+2019-04-27 09:28:59,582 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-27 09:29:09,713 - module: _internal - line: 88 - func: _log - INFO -  * Detected change in 'D:\\Produtos\\SpeechServer\\api\\google_api.py', reloading
+2019-04-27 09:29:09,780 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-27 09:29:11,729 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-27 09:29:11,743 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 206-848-052
+2019-04-27 09:29:12,588 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-27 09:29:22,162 - module: ws_rest - line: 180 - func: sendAudioConvertByRecognize - INFO - 1: Personal System Evelin, bom dia.\n 2: Oi, bom dia, Evelyn, eu tenho uma consulta marcada hoje, mas eu preciso\n 1: remarcar Claro você me fala seu nome completo, por favor.
+2019-04-27 09:29:22,163 - module: _internal - line: 88 - func: _log - INFO - 127.0.0.1 - - [27/Apr/2019 09:29:22] "POST /message/sendAudioConvertByRecognize HTTP/1.1" 200 -
+2019-04-27 09:29:39,803 - module: _internal - line: 88 - func: _log - INFO -  * Detected change in 'D:\\Produtos\\SpeechServer\\api\\google_api.py', reloading
+2019-04-27 09:29:39,867 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-27 09:29:41,525 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-27 09:29:41,535 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 206-848-052
+2019-04-27 09:29:42,379 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-27 09:29:52,457 - module: ws_rest - line: 180 - func: sendAudioConvertByRecognize - INFO - 1: Personal System Evelin, bom dia.
+ 2: Oi, bom dia, Evelyn, eu tenho uma consulta marcada hoje, mas eu preciso
+ 1: remarcar Claro você me fala seu nome completo, por favor.
+2019-04-27 09:29:52,458 - module: _internal - line: 88 - func: _log - INFO - 127.0.0.1 - - [27/Apr/2019 09:29:52] "POST /message/sendAudioConvertByRecognize HTTP/1.1" 200 -
+2019-04-27 09:31:14,794 - module: ws_rest - line: 180 - func: sendAudioConvertByRecognize - INFO - 1: Personal System Evelin, bom dia.
+ 2: Oi, bom dia, Evelyn, eu tenho uma consulta marcada hoje, mas eu preciso
+ 1: remarcar Claro você me fala seu nome completo, por favor.
+2019-04-27 09:31:14,797 - module: _internal - line: 88 - func: _log - INFO - 127.0.0.1 - - [27/Apr/2019 09:31:14] "POST /message/sendAudioConvertByRecognize HTTP/1.1" 200 -
+2019-04-27 09:31:28,283 - module: ws_rest - line: 180 - func: sendAudioConvertByRecognize - INFO - 1: Personal System Evelin, bom dia.
+ 2: Oi, bom dia, Evelyn, eu tenho uma consulta marcada hoje, mas eu preciso
+ 1: remarcar Claro você me fala seu nome completo, por favor.
+2019-04-27 09:31:28,286 - module: _internal - line: 88 - func: _log - INFO - 127.0.0.1 - - [27/Apr/2019 09:31:28] "POST /message/sendAudioConvertByRecognize HTTP/1.1" 200 -
+2019-04-27 09:32:02,772 - module: _internal - line: 88 - func: _log - INFO -  * Detected change in 'D:\\Produtos\\SpeechServer\\api\\google_api.py', reloading
+2019-04-27 09:32:02,845 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-27 09:32:04,761 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-27 09:32:04,772 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 206-848-052
+2019-04-27 09:32:05,619 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-27 09:32:14,745 - module: ws_rest - line: 180 - func: sendAudioConvertByRecognize - INFO - 1: Personal System Evelin, bom dia.
+ 2: Oi, bom dia, Evelyn, eu tenho uma consulta marcada hoje, mas eu preciso
+ 1: remarcar Claro você me fala seu nome completo, por favor.
+2019-04-27 09:32:14,746 - module: _internal - line: 88 - func: _log - INFO - 127.0.0.1 - - [27/Apr/2019 09:32:14] "POST /message/sendAudioConvertByRecognize HTTP/1.1" 200 -
+2019-04-27 09:33:31,780 - module: _internal - line: 88 - func: _log - INFO -  * Detected change in 'D:\\Produtos\\SpeechServer\\api\\google_api.py', reloading
+2019-04-27 09:33:31,859 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-27 09:33:33,889 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-27 09:33:33,899 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 206-848-052
+2019-04-27 09:33:34,742 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-27 09:33:36,447 - module: _internal - line: 88 - func: _log - INFO -  * Detected change in 'D:\\Produtos\\SpeechServer\\api\\google_api.py', reloading
+2019-04-27 09:33:36,525 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-27 09:33:38,323 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-27 09:33:38,333 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 206-848-052
+2019-04-27 09:33:39,181 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-27 09:33:59,507 - module: ws_rest - line: 180 - func: sendAudioConvertByRecognize - INFO - 1: Personal System Evelin, bom dia.
+ 2: Oi, bom dia, Evelyn, eu tenho uma consulta marcada hoje, mas eu preciso
+ 1: remarcar Claro você me fala seu nome completo, por favor.
+2019-04-27 09:33:59,509 - module: _internal - line: 88 - func: _log - INFO - 127.0.0.1 - - [27/Apr/2019 09:33:59] "POST /message/sendAudioConvertByRecognize HTTP/1.1" 200 -
+2019-04-27 09:35:38,783 - module: _internal - line: 88 - func: _log - INFO -  * Detected change in 'D:\\Produtos\\SpeechServer\\api\\google_api.py', reloading
+2019-04-27 09:35:38,848 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-27 09:35:40,592 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-27 09:35:40,602 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 206-848-052
+2019-04-27 09:35:41,447 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-27 09:35:50,509 - module: ws_rest - line: 180 - func: sendAudioConvertByRecognize - INFO - 1: Personal System Evelin, bom dia.
+ 2: Oi, bom dia, Evelyn, eu tenho uma consulta marcada hoje, mas eu preciso
+ 1: remarcar Claro você me fala seu nome completo, por favor.
+2019-04-27 09:35:50,509 - module: _internal - line: 88 - func: _log - INFO - 127.0.0.1 - - [27/Apr/2019 09:35:50] "POST /message/sendAudioConvertByRecognize HTTP/1.1" 200 -
+2019-04-27 09:38:01,850 - module: _internal - line: 88 - func: _log - INFO -  * Detected change in 'D:\\Produtos\\SpeechServer\\api\\google_api.py', reloading
+2019-04-27 09:38:01,936 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-27 09:38:03,716 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-27 09:38:03,726 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 206-848-052
+2019-04-27 09:38:04,570 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-27 09:38:12,605 - module: ws_rest - line: 180 - func: sendAudioConvertByRecognize - INFO - 
+2019-04-27 09:38:12,606 - module: _internal - line: 88 - func: _log - INFO - 127.0.0.1 - - [27/Apr/2019 09:38:12] "POST /message/sendAudioConvertByRecognize HTTP/1.1" 200 -
+2019-04-27 09:38:31,680 - module: _internal - line: 88 - func: _log - INFO -  * Detected change in 'D:\\Produtos\\SpeechServer\\api\\google_api.py', reloading
+2019-04-27 09:38:31,750 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-27 09:38:33,645 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-27 09:38:33,657 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 206-848-052
+2019-04-27 09:38:34,503 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-27 09:40:52,680 - module: ws_rest - line: 180 - func: sendAudioConvertByRecognize - INFO - 1: Personal System Evelin, bom dia.
+ 2: Oi, bom dia, Evelyn, eu tenho uma consulta marcada hoje, mas eu preciso
+ 1: remarcar Claro você me fala seu nome completo, por favor.
+2019-04-27 09:40:52,682 - module: _internal - line: 88 - func: _log - INFO - 127.0.0.1 - - [27/Apr/2019 09:40:52] "POST /message/sendAudioConvertByRecognize HTTP/1.1" 200 -
+2019-04-27 09:42:11,009 - module: _internal - line: 88 - func: _log - INFO - 127.0.0.1 - - [27/Apr/2019 09:42:11] "POST /message/sendAudioByRecognize?Filename=Teste HTTP/1.1" 200 -
+2019-04-27 09:43:50,453 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-27 09:43:52,868 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-27 09:43:52,883 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 206-848-052
+2019-04-27 09:43:53,749 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-27 09:49:58,970 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-27 09:50:01,388 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-27 09:50:01,398 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 206-848-052
+2019-04-27 09:50:02,246 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-27 09:53:17,035 - module: _internal - line: 88 - func: _log - INFO -  * Detected change in 'D:\\Produtos\\SpeechServer\\api\\google_api.py', reloading
+2019-04-27 09:53:17,102 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-27 09:53:18,924 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-27 09:53:18,935 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 206-848-052
+2019-04-27 09:53:19,778 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-27 09:53:27,964 - module: ws_rest - line: 180 - func: sendAudioConvertByRecognize - INFO - 1: Personal System Evelin, bom dia.
+ 2: Oi, bom dia, Evelyn, eu tenho uma consulta marcada hoje, mas eu preciso
+ 1: remarcar Claro você me fala seu nome completo, por favor.
+2019-04-27 09:53:27,965 - module: _internal - line: 88 - func: _log - INFO - 127.0.0.1 - - [27/Apr/2019 09:53:27] "POST /message/sendAudioConvertByRecognize HTTP/1.1" 200 -
+2019-04-30 14:28:48,370 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-30 14:28:48,371 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-30 14:28:48,921 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-30 14:28:48,925 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 701-184-722
+2019-04-30 14:36:40,562 - module: _internal - line: 88 - func: _log - INFO - 172.20.0.1 - - [30/Apr/2019 14:36:40] "GET /version HTTP/1.1" 200 -
+2019-04-30 14:37:09,759 - module: _internal - line: 88 - func: _log - INFO - 172.20.0.1 - - [30/Apr/2019 14:37:09] "POST /message/sendAudioByRecognize?Filename=audio_16000.wav HTTP/1.1" 400 -
+2019-04-30 14:37:22,040 - module: _internal - line: 88 - func: _log - INFO - 172.20.0.1 - - [30/Apr/2019 14:37:22] "POST /message/sendAudioConvertByRecognize HTTP/1.1" 400 -
+2019-04-30 14:37:30,309 - module: _internal - line: 88 - func: _log - INFO - 172.20.0.1 - - [30/Apr/2019 14:37:30] "POST /message/downloadAudioConvertByRecognize HTTP/1.1" 500 -
+2019-04-30 14:37:38,289 - module: _internal - line: 88 - func: _log - INFO - 172.20.0.1 - - [30/Apr/2019 14:37:38] "POST /message/analizeSentiment HTTP/1.1" 200 -
+2019-04-30 17:04:48,316 - module: _internal - line: 88 - func: _log - INFO - 172.20.0.1 - - [30/Apr/2019 17:04:48] "POST /message/requestTextToSpeech HTTP/1.1" 500 -
+2019-04-30 17:31:25,974 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-04-30 17:31:25,975 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-04-30 17:31:26,597 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-04-30 17:31:26,598 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 355-737-932
+2019-04-30 17:41:44,748 - module: _internal - line: 88 - func: _log - INFO - 172.21.0.1 - - [30/Apr/2019 17:41:44] "POST /message/requestTextToSpeech HTTP/1.1" 200 -
+2019-04-30 17:43:06,549 - module: ws_rest - line: 180 - func: sendAudioConvertByRecognize - INFO - 
+2019-04-30 17:43:06,553 - module: _internal - line: 88 - func: _log - INFO - 172.21.0.1 - - [30/Apr/2019 17:43:06] "POST /message/sendAudioConvertByRecognize HTTP/1.1" 200 -
+2019-04-30 17:58:03,775 - module: ws_rest - line: 180 - func: sendAudioConvertByRecognize - INFO - 1: personal System Evelin bom dia
+ 2: oi bom dia Evelyn eu tenho uma consulta marcada hoje mas eu preciso
+ 1: remarcar Claro vocÃª me fala seu nome completo por favor
+2019-04-30 17:58:03,777 - module: _internal - line: 88 - func: _log - INFO - 172.21.0.1 - - [30/Apr/2019 17:58:03] "POST /message/sendAudioConvertByRecognize HTTP/1.1" 200 -
+2019-04-30 17:58:06,151 - module: ws_rest - line: 180 - func: sendAudioConvertByRecognize - INFO - 
+2019-04-30 17:58:06,154 - module: _internal - line: 88 - func: _log - INFO - 172.21.0.1 - - [30/Apr/2019 17:58:06] "POST /message/sendAudioConvertByRecognize HTTP/1.1" 200 -
+2019-04-30 17:58:35,503 - module: _internal - line: 88 - func: _log - INFO - 172.21.0.1 - - [30/Apr/2019 17:58:35] "POST /message/analizeSentiment HTTP/1.1" 200 -
+2019-04-30 17:58:52,777 - module: _internal - line: 88 - func: _log - INFO - 172.21.0.1 - - [30/Apr/2019 17:58:52] "POST /message/analizeSentiment HTTP/1.1" 200 -
+2019-06-05 17:24:30,728 - module: _internal - line: 88 - func: _log - INFO -  * Running on http://0.0.0.0:8082/ (Press CTRL+C to quit)
+2019-06-05 17:24:30,729 - module: _internal - line: 88 - func: _log - INFO -  * Restarting with stat
+2019-06-05 17:24:31,320 - module: _internal - line: 88 - func: _log - WARNING -  * Debugger is active!
+2019-06-05 17:24:31,322 - module: _internal - line: 88 - func: _log - INFO -  * Debugger PIN: 701-184-722
+2019-06-05 17:24:42,878 - module: _internal - line: 88 - func: _log - INFO - 172.20.0.1 - - [05/Jun/2019 17:24:42] "GET /version HTTP/1.1" 200 -
+2019-06-05 17:26:04,288 - module: ws_rest - line: 180 - func: sendAudioConvertByRecognize - INFO - alternatives:[{"index":0, "text":"personal System Evelyn bom dia oi bom dia eu tenho uma consulta marcada hoje mas eu preciso remarcar Claro vocÃª me fala seu nome completo por favor Renata Klein na verdade nÃ£o sou vocÃª nÃ£o Ã© isso no momento ele tÃ¡ sem nada hoje Ã s 17:30 com a doutora MÃ´nica correta e isso vocÃª jÃ¡ quer reagendar nÃ£o pode deixar em aberto eu vou ter que olhar na agenda aÃ­ entÃ£o tÃ¡ bom quando tu tÃ¡ cancelado aguardando para reagendar tÃ¡ bom tÃ¡ Ã³timo Muito obrigada que vocÃª precisar tchau tchau tchau", "score":0.9099714159965515}]
+2019-06-05 17:26:04,292 - module: _internal - line: 88 - func: _log - INFO - 172.20.0.1 - - [05/Jun/2019 17:26:04] "POST /message/sendAudioConvertByRecognize HTTP/1.1" 200 -

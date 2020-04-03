@@ -1,0 +1,13 @@
+2019-04-25 21:17:33,472 - module: google_api - line: 90 - func: sendAudioFile - ERROR - 'False' has type str, but expected one of: int, long, bool
+2019-04-27 09:24:07,029 - module: google_api - line: 109 - func: sendAudioFile - ERROR - 400 sample_rate_hertz (16000) in RecognitionConfig must either be omitted or match the value in the WAV header ( 8000).
+2019-04-27 09:25:21,081 - module: google_api - line: 109 - func: sendAudioFile - ERROR - 400 sample_rate_hertz (8000) in RecognitionConfig must either be omitted or match the value in the WAV header ( 16000).
+2019-04-27 09:38:12,602 - module: google_api - line: 110 - func: sendAudioFile - ERROR - 400 Invalid recognition 'config': The phone_call model is currently not supported for language : pt-BR.
+2019-04-30 14:28:48,344 - module: speech_server - line: 40 - func: checkKillProcess - ERROR - [Errno 3] No such process
+2019-04-30 14:28:48,345 - module: repo - line: 66 - func: __garbage__ - ERROR - Directory not exists.
+2019-04-30 14:28:48,905 - module: repo - line: 66 - func: __garbage__ - ERROR - Directory not exists.
+2019-04-30 17:04:48,305 - module: cpqd - line: 73 - func: createFileTtsV2 - ERROR - [Errno 2] No such file or directory: 'D:/Produtos/SpeechServer/wav/audio_76723010673d7ecc8b7182ec4087229095325552f8ce59543e10fe67dfd86774.wav'
+2019-04-30 17:04:48,305 - module: ffmpeg - line: 50 - func: convertAudioFile - ERROR - [Errno 2] No such file or directory: 'D:/Produtos/SpeechServer/wav/audio_76723010673d7ecc8b7182ec4087229095325552f8ce59543e10fe67dfd86774.wav'
+2019-04-30 17:31:25,946 - module: speech_server - line: 40 - func: checkKillProcess - ERROR - [Errno 3] No such process
+2019-04-30 17:43:06,548 - module: google_api - line: 110 - func: sendAudioFile - ERROR - 400 Sync input too long. For audio longer than 1 min use LongRunningRecognize with a 'uri' parameter.
+2019-04-30 17:58:06,150 - module: google_api - line: 110 - func: sendAudioFile - ERROR - 400 Sync input too long. For audio longer than 1 min use LongRunningRecognize with a 'uri' parameter.
+2019-06-05 17:24:30,700 - module: speech_server - line: 40 - func: checkKillProcess - ERROR - [Errno 3] No such process
